@@ -1,0 +1,24 @@
+
+*{
+    background-color: bisque;
+}
+span{
+    padding: 15px;
+margin: 20px;
+border: 2px solid rgb(248, 131, 131);
+border-radius: 45%;
+background-color: rgb(236, 186, 173);
+
+font-size: 20px;
+}
+
+span:hover{
+    
+    color: white;
+    cursor: pointer;
+    background-color: rgb(224, 89, 55);
+
+}
+div{
+    text-align: center;
+}
